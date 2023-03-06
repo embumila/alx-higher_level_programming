@@ -1,1 +1,1 @@
-# alx-higher_level_programming
+Printing the number stored   in vaiable number
