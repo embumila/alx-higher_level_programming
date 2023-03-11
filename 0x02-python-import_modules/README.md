@@ -1,1 +1,1 @@
-Printing number and list of argument
+Infinite add 
