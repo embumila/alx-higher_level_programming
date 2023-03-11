@@ -1,1 +1,1 @@
-Printing  pythonschool
+Magic calculation functin
