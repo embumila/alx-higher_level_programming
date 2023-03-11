@@ -1,1 +1,1 @@
-Magic calculation functin
+Printing the alphabet in upercase
