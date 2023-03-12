@@ -1,1 +1,1 @@
-Remove all character c and C
+Printing the interges of a matrix
