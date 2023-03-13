@@ -1,1 +1,1 @@
-Printing the ASCII alphabets in lowercase
+Printing all number from 0 to 98
