@@ -1,1 +1,1 @@
-Float with 2 digits
+Printing 3 times a string stored in the variable
