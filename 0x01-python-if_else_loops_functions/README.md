@@ -1,1 +1,1 @@
-Print all possible combination of two digits
+Printing upercase string followed by new line
