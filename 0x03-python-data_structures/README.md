@@ -1,1 +1,1 @@
-Finding multiple of 2b
+Delete element at a specific index
