@@ -1,1 +1,1 @@
-Printing all number from 0 to 98
+Printing number from  0 to 99
