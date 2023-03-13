@@ -1,1 +1,1 @@
-Hello write
+Script co compiling python script
