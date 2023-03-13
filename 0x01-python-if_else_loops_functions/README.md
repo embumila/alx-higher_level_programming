@@ -1,1 +1,1 @@
-Printing upercase string followed by new line
+Print the last digit of a  number
