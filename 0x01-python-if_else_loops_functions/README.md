@@ -1,1 +1,1 @@
-Printing number form 1 to 100 separated by space
+Printing the ASCII alphabets in reverse order alternating lowercase and upercase
