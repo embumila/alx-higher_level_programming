@@ -1,1 +1,1 @@
-Printing the number stored   in vaiable number
+Float with 2 digits
