@@ -1,1 +1,1 @@
-Concatinating string
+Copy-Cut-Paste
