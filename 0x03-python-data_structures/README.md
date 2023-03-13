@@ -1,1 +1,1 @@
-Finding the bigest interger of the list
+Finding multiple of 2b
