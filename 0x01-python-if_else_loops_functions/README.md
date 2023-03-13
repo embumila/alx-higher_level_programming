@@ -1,1 +1,1 @@
-Printing number from  0 to 99
+Print all possible combination of two digits
