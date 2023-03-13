@@ -1,1 +1,1 @@
-Print the last digit of a  number
+Adding two interges and returnn results
