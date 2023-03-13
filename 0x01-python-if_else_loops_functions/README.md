@@ -1,1 +1,1 @@
-Printing the ASCII alphabets in reverse order alternating lowercase and upercase
+Creating  a copy of the string, removing cahracter at the position n
