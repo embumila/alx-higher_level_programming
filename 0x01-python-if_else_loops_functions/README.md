@@ -1,1 +1,1 @@
-Adding two interges and returnn results
+Compute a to the power of b and return the  result
