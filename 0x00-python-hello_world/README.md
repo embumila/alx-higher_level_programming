@@ -1,1 +1,1 @@
-Script co compiling python script
+Magic calculation
