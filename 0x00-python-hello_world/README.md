@@ -1,1 +1,1 @@
-Easter eggs
+Checking cycle in singly linked list
