@@ -1,1 +1,1 @@
-Printing ASCII alphabet
+Printing the ASCII alphabets in lowercase
