@@ -1,1 +1,1 @@
-Delete key in dictionary
+Multpy by 2
