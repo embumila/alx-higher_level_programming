@@ -1,1 +1,1 @@
-Scquared simple
+Replace occurancy of element by other
