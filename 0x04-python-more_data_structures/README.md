@@ -1,1 +1,1 @@
-Return a key with biggest interger
+A list with all its value multiply by a number without using  a loop
