@@ -1,1 +1,1 @@
-Repace or adds key/value in a dictionary
+Delete key in dictionary
