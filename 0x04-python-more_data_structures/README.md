@@ -1,1 +1,1 @@
-Compute the square value of all  intergers of a matrix using map
+Delete key with specific value in a dictionary
