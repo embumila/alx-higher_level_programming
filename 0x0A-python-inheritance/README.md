@@ -22,3 +22,6 @@
 
  10. A class Square that inherits from Rectangle (9-rectangle.py):
 
+ 11. A class Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py).
+
+ 
