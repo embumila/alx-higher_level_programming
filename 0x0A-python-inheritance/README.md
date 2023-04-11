@@ -8,4 +8,6 @@
 
  3. Returns True if the object is an instance of, or if the object is an instance of a class that inherited from, the specified class ; otherwise False.
 
- 4. Returning True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False. 
+ 4. Returning True if the object is an instance of a class that inherited (directly or indirectly) from the specified class ; otherwise False.
+
+ 5. Empty class BaseGeometry.
