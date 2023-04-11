@@ -19,3 +19,6 @@
  8. A class Rectangle that inherits from BaseGeometry (7-base_geometry.py).
 
  9. A class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
+
+ 10. A class Square that inherits from Rectangle (9-rectangle.py):
+
