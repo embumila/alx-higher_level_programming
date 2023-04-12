@@ -1,6 +1,4 @@
-
 #!/usr/bin/python3
-
 
 def read_file(filename=""):
     """ reading the text file (UTF8) and print the stadout """
