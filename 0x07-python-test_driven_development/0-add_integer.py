@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-
 """ Module to add two number """
-
 def add_integer(a, b=98):
     if type(a) not in (int, float):
         raise TypeError("a must be an integer")
@@ -9,7 +7,6 @@ def add_integer(a, b=98):
         raise TypeError("b must be an integer")
     else:
         return int(a) + int(b)
-
     if __name__ == "__main__":
         import doctest
         doctest.testfile("tests/0-add_interger.txt")
