@@ -6,7 +6,4 @@ def add_integer(a, b=98):
     elif type(b) not in (int, float):
         raise TypeError("b must be an integer")
     else:
-        return int(a) + int(b)
-    if __name__ == "__main__":
-        import doctest
-        doctest.testfile("tests/0-add_interger.txt")
+        return (int(a) + int(b))
